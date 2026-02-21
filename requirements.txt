@@ -4,3 +4,4 @@ imageio-ffmpeg
 gunicorn
 flask
 uvicorn
+fastapi
