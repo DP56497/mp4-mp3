@@ -1,7 +1,8 @@
-moviepy
+fastapi
+uvicorn[standard]
+gunicorn
+moviepy==1.0.3
 imageio
 imageio-ffmpeg
-gunicorn
-flask
-uvicorn
-fastapi
+python-multipart
+
