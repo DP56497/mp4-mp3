@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-gunicorn
-python-multipart
 moviepy
+imageio
 imageio-ffmpeg
-moviepy
+gunicorn
+flask
+
