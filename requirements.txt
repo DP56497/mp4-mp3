@@ -3,4 +3,4 @@ imageio
 imageio-ffmpeg
 gunicorn
 flask
-
+uvicorn
