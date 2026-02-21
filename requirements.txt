@@ -4,3 +4,4 @@ gunicorn
 python-multipart
 moviepy
 imageio-ffmpeg
+moviepy
